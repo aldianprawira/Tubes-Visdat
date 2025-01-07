@@ -1,3 +1,3 @@
 # Brazillian-E-Commerce
 
-https://brazillian-e-commerce-s77bnq25ws3vuieprn7frg.streamlit.app/
+https://3dvxsitqew42ffuzvh3yxf.streamlit.app/
